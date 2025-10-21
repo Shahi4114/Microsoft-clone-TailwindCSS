@@ -78,11 +78,6 @@ This project is a visual clone of the Microsoft homepage designed for practice a
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Shahi4114/Microsoft-clone-TailwindCSS/issues).
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-"@
-
 # Write the content to a README.md file
 
 $readmeContent | Out-File -FilePath "README.md" -Encoding utf8
